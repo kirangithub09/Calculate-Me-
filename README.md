@@ -2,6 +2,9 @@
 
 A sleek, functional, and responsive web-based calculator built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This project features a clean UI and utilizes a utility-first CSS approach for a structured layout.
 
+🚀 Live Demo
+
+
 ## 🚀 Features
 
 * **Mathematical Operations:** Performs addition, subtraction, multiplication, and division.
@@ -23,7 +26,7 @@ A sleek, functional, and responsive web-based calculator built using **HTML5**, 
 ├── style.css    # Specific styling for buttons and input fields
 ├── utils.css    # Utility classes for flexbox, alignment, and margins
 └── script.js    # Logic for calculations and DOM manipulation
-
+```
 ⚙️ How It Works
 Event Listeners: The script selects all elements with the .button class and attaches a click event listener.
 
