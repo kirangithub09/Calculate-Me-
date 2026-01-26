@@ -2,8 +2,8 @@
 
 A sleek, functional, and responsive web-based calculator built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This project features a clean UI and utilizes a utility-first CSS approach for a structured layout.
 
-🚀 Live Demo
-
+## 🚀 Live Demo
+https://kirangithub09.github.io/Calculate-Me-/
 
 ## 🚀 Features
 
@@ -28,6 +28,7 @@ A sleek, functional, and responsive web-based calculator built using **HTML5**, 
 └── script.js    # Logic for calculations and DOM manipulation
 ```
 ⚙️ How It Works
+
 Event Listeners: The script selects all elements with the .button class and attaches a click event listener.
 
 String Concatenation: Every button click appends the character to a local string variable.
